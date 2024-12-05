@@ -1,0 +1,1 @@
+This repository demonstrates a common error in ActionScript 3: attempting to access a property of a null object.  The `bug.as` file contains the problematic code, which throws a runtime error. The solution (`bugSolution.as`) shows how to mitigate this using appropriate checks.  This is important for robustness and preventing unexpected application crashes.
